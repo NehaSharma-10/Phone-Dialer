@@ -55,6 +55,10 @@ body {
     margin-top: 10px;
 }
 
+.one-text-p {
+    visibility: hidden;
+}
+
 .inner-div button {
     margin: 11px;
     background-color: #fff;
